@@ -1,0 +1,16 @@
+{
+  "test": [
+    {
+      "script": "compareXmlDataset.ta",
+      "param": {
+        "DS_label": "AMD Ryzen 9 3900X"
+      }
+    },
+    {
+      "script": "compareXmlTCCUF.ta",
+      "param": {
+        "TC_CUF_label": "Intel i9-9900K"
+      }
+    }
+  ]
+}
